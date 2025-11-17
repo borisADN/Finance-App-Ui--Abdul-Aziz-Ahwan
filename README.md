@@ -4,7 +4,7 @@
 
 Original
 
-![Aperçu](/preview/preview1.png)
+![Aperçu](/preview/original.webp)
 
 Our Work.
 
